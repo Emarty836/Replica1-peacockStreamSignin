@@ -53,7 +53,7 @@ nav > div:nth-child(2):active{
 
 nav > div:nth-child(1){
     width:150px;
-    background-image:url('images/peacock-logo2-edit.png');
+    background-image:url('peacock-logo2-edit.png');
     background-repeat: no-repeat;
     background-size:250px;
     background-position: center 40%;
@@ -127,14 +127,6 @@ h1{
     position:relative; 
 }
 
-
-/* .profiles > div:nth-child(1){
-    background-image:url('images/peacockMascot-edit.png');
-    background-repeat: no-repeat;
-    background-size:125%;
-    background-position:-25px -69px;
-    background-blend-mode: normal;
-} */
 
 #mascot{
     width:225px;
@@ -228,7 +220,7 @@ h1{
     /* ----------------------------------------------------------------------------------------------------------------- */
     nav > div:nth-child(1){
         width:55px;
-        background-image:url('images/letterPcock.png');
+        background-image:url('letterPcock.png');
         background-size:contain;
         background-repeat: no-repeat;
         background-position:50% 50%;
